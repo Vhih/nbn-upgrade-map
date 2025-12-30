@@ -2476,5 +2476,29 @@
             "FTTC": 45,
             "SATELLITE": 9
         }
+    },
+    "2025-12-30": {
+        "tech": {
+            "FTTP": 4524892,
+            "FTTN": 3195020,
+            "HFC": 2742227,
+            "FTTC": 975426,
+            "WIRELESS": 843364,
+            "FTTB": 606702,
+            "NULL": 494115,
+            "SATELLITE": 160049
+        },
+        "upgrade": {
+            "NULL_NA": 4870869,
+            "FTTP_SA": 2049235,
+            "FTTP_NA": 1647004,
+            "FTTP": 438657,
+            "WIRELESS": 10474,
+            "FTTN": 293,
+            "FW_NA": 272,
+            "NULL": 46,
+            "FTTC": 43,
+            "SATELLITE": 10
+        }
     }
 }
