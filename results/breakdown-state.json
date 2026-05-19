@@ -10129,5 +10129,90 @@
             "HFC": 122622,
             "FTTB": 35691
         }
+    },
+    "2026-05-19": {
+        "ACT": {
+            "FTTN": 120382,
+            "FTTP": 84139,
+            "SATELLITE": 92,
+            "NULL": 5583,
+            "HFC": 6,
+            "FTTC": 6277,
+            "FTTB": 11414
+        },
+        "NSW": {
+            "NULL": 123365,
+            "WIRELESS": 218433,
+            "SATELLITE": 49527,
+            "FTTP": 1312365,
+            "FTTN": 954356,
+            "FTTC": 350123,
+            "FTTB": 264587,
+            "HFC": 926236
+        },
+        "NT": {
+            "FTTP": 66908,
+            "FTTB": 1953,
+            "NULL": 6648,
+            "SATELLITE": 3605,
+            "WIRELESS": 4984,
+            "HFC": 35,
+            "FTTN": 10198,
+            "FTTC": 3
+        },
+        "OT": {
+            "NULL": 101,
+            "SATELLITE": 1875
+        },
+        "QLD": {
+            "SATELLITE": 45984,
+            "FTTN": 664371,
+            "FTTP": 876774,
+            "HFC": 591308,
+            "WIRELESS": 211414,
+            "FTTB": 113705,
+            "NULL": 119168,
+            "FTTC": 131260
+        },
+        "SA": {
+            "NULL": 26478,
+            "SATELLITE": 11833,
+            "WIRELESS": 95351,
+            "FTTN": 283305,
+            "FTTP": 283092,
+            "HFC": 223214,
+            "FTTB": 17217,
+            "FTTC": 54562
+        },
+        "TAS": {
+            "SATELLITE": 7015,
+            "NULL": 7596,
+            "WIRELESS": 48055,
+            "FTTN": 79276,
+            "FTTP": 168808,
+            "FTTB": 1041,
+            "HFC": 13,
+            "FTTC": 1
+        },
+        "VIC": {
+            "SATELLITE": 22738,
+            "WIRELESS": 210049,
+            "NULL": 135878,
+            "FTTC": 373344,
+            "FTTP": 1233103,
+            "FTTN": 545861,
+            "HFC": 878793,
+            "FTTB": 161094
+        },
+        "WA": {
+            "FTTN": 537271,
+            "NULL": 69298,
+            "SATELLITE": 17380,
+            "FTTP": 499703,
+            "FTTB": 35691,
+            "WIRELESS": 55078,
+            "FTTC": 59856,
+            "HFC": 122622
+        }
     }
 }
